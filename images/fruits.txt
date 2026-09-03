@@ -1,6 +1,7 @@
 watermelon
 monkey balls fruit
-apple,orange
+apple
+orange
 banana
 cherry
 strawberry
